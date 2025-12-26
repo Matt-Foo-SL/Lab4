@@ -4,7 +4,8 @@
   "description": "Goal: to use Copilot to automate infrastructure, CI/CD, and monitoring as part of a complete DevOps workflow. az login generate code  run infrastructure.sh in terminal: ./infrastructure.sh",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build successful\""
   },
   "keywords": [],
   "author": "",
